@@ -1,7 +1,7 @@
 # Imgur Scraper
 # Usage
 
-git clone https://github.com/aqswdefr746/imgur-scraper.git
+git clone https://github.com/aqswdefr746/imgur-scraper.git or this fork https://github.com/DayZeroKing/imgur-scraper.git
 
 apt-get install python3
 
